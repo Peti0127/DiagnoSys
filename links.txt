@@ -35,7 +35,7 @@ Lenovo System Update
 https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.01.exe
 
 ChipCard Master
-https://download.heise.de/files/UxIEYnSw_Y9Z9JVTcCOU2Q/106077/cmsetup.exe?expires=1686037573
+https://github.com/Peti0127/ACPGuide/blob/main/cmsetup.exe
 
 UserBenchmark
 https://www.userbenchmark.com/resources/download/UserBenchmarkInstaller.exe
