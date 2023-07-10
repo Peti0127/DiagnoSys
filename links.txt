@@ -38,5 +38,5 @@ ChipCard Master
 https://raw.githubusercontent.com/Peti0127/ACPGuide/main/cmsetup.exe
 
 UserBenchmark
-https://www.userbenchmark.com/resources/download/UserBenchmarkInstaller.exe
+https://www.userbenchmark.com/resources/download/Userbenchmark.exe
 
