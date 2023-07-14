@@ -40,3 +40,6 @@ https://raw.githubusercontent.com/Peti0127/ACPGuide/main/cmsetup.exe
 UserBenchmark
 https://www.userbenchmark.com/resources/download/UserBenchmark.zip
 
+BRZ Docking Station Firmware Upgrade
+https://raw.githubusercontent.com/Peti0127/ACPGuide/main/BRZ_DS.zip
+
