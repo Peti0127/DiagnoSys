@@ -43,3 +43,9 @@ https://www.userbenchmark.com/resources/download/UserBenchmark.zip
 BRZ Docking Station Firmware Upgrade
 https://raw.githubusercontent.com/Peti0127/ACPGuide/main/BRZ_DS.zip
 
+BRZ BIOS Downgrade Part 1
+https://raw.githubusercontent.com/Peti0127/ACPGuide/main/BRZ_BIOS_p1.zip
+
+BRZ BIOS Downgrade Part 2
+https://raw.githubusercontent.com/Peti0127/ACPGuide/main/BRZ_BIOS_p2.zip
+
