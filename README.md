@@ -1,3 +1,3 @@
-# ACPGuide
+# HWBuddy
 
-This is an online repository for ACP Guide
+This is an online repository for HardwareBuddy
