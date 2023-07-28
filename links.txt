@@ -2,10 +2,10 @@ Chrome
 https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BF2252195-90FF-D123-3DFD-07A6641752FC%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe
 
 CrystalDiskInfo
-https://osdn.net/frs/redir.php?m=rwthaachen&f=crystaldiskinfo%2F78836%2FCrystalDiskInfo9_0_1a.exe
+https://crystalmark.info/download/zz/CrystalDiskInfo9_1_1.exe
 
 CrystalDiskMark
-https://osdn.net/frs/redir.php?m=rwthaachen&f=crystaldiskmark%2F77936%2FCrystalDiskMark8_0_4c.exe
+https://crystalmark.info/download/zz/CrystalDiskMark8_0_4c.exe
 
 FurMark
 https://geeks3d.com/dl/show/720
@@ -26,7 +26,7 @@ Dell Command Update
 https://dl.dell.com/FOLDER10012380M/3/Dell-Command-Update-Application_30F6M_WIN_4.9.0_A02_02.EXE
 
 Fujitsu DeskUpdate
-https://webdownloads2.ts.fujitsu.com/download/FileDownload/fileDownload.aspx?SoftwareGUID=FE7260C7-0B8E-46D5-8EEF-613E9DBB09CC&FileFolder=Downloadfiles&FileTypeExtension=EXE&FileNameClient=FTS_DeskUpdateSetup_5020056_1279825.EXE&Token=ODw0PDQ5Nzk6NEA0OTopLQ==
+https://webdownloads4.ts.fujitsu.com/download/FileDownload/fileDownload.aspx?SoftwareGUID=FE7260C7-0B8E-46D5-8EEF-613E9DBB09CC&FileFolder=Downloadfiles&FileTypeExtension=EXE&FileNameClient=FTS_DeskUpdateSetup_5020056_1279825.EXE&Token=Qkg9Rz1CQEJDPUFDPUUmLA==
 
 HP Image Assist
 https://hpia.hpcloud.hp.com/downloads/hpia/hp-hpia-5.1.10.exe
