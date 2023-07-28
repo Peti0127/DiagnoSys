@@ -1,3 +1,3 @@
-# HWBuddy
+# DiagnoSys
 
-This is an online repository for HardwareBuddy
+This is an online repository for DiagnoSys
