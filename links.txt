@@ -23,7 +23,7 @@ Prime95
 https://www.mersenne.org/download/software/v30/30.8/p95v308b17.win64.zip
 
 Dell Command Update
-https://dl.dell.com/FOLDER10408469M/1/Dell-Command-Update-Application_HYR95_WIN_5.0.0_A00.EXE
+https://raw.githubusercontent.com/Peti0127/ACPGuide/main/DCU_5.0.0.EXE
 
 Fujitsu DeskUpdate
 https://webdownloads4.ts.fujitsu.com/download/FileDownload/fileDownload.aspx?SoftwareGUID=FE7260C7-0B8E-46D5-8EEF-613E9DBB09CC&FileFolder=Downloadfiles&FileTypeExtension=EXE&FileNameClient=FTS_DeskUpdateSetup_5020056_1279825.EXE&Token=Qkg9Rz1CQEJDPUFDPUUmLA==
