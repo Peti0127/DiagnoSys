@@ -31,8 +31,8 @@ https://webdownloads4.ts.fujitsu.com/download/FileDownload/fileDownload.aspx?Sof
 HP Image Assist
 https://hpia.hpcloud.hp.com/downloads/hpia/hp-hpia-5.1.10.exe
 
-Lenovo Thin Installer - portable SysUpdater
-https://download.lenovo.com/pccbbs/thinkvantage_en/lenovo_thininstaller_1.04.01.0004.exe
+Lenovo System Update
+https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.01.exe
 
 ChipCard Master
 https://raw.githubusercontent.com/Peti0127/ACPGuide/main/cmsetup.exe
@@ -48,4 +48,7 @@ https://raw.githubusercontent.com/Peti0127/ACPGuide/main/BRZ_BIOS_p1.zip
 
 BRZ BIOS Downgrade Part 2
 https://raw.githubusercontent.com/Peti0127/ACPGuide/main/BRZ_BIOS_p2.zip
+
+Lenovo Thin Installer - portable SysUpdater
+https://download.lenovo.com/pccbbs/thinkvantage_en/lenovo_thininstaller_1.04.01.0004.exe
 
