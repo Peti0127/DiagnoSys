@@ -14,7 +14,7 @@ HeavyLoad
 https://downloads.jam-software.de/heavyload/HeavyLoad-x64-Setup.exe
 
 HWMonitor
-https://download.cpuid.com/hwmonitor/hwmonitor_1.51.exe
+https://download.cpuid.com/hwmonitor/hwmonitor_1.52.exe
 
 NotepadPlusPlus
 https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.4/npp.8.5.4.Installer.x64.exe
