@@ -49,6 +49,5 @@ https://raw.githubusercontent.com/Peti0127/ACPGuide/main/BRZ_BIOS_p1.zip
 BRZ BIOS Downgrade Part 2
 https://raw.githubusercontent.com/Peti0127/ACPGuide/main/BRZ_BIOS_p2.zip
 
-Lenovo Thin Installer - portable SysUpdater
-https://download.lenovo.com/pccbbs/thinkvantage_en/lenovo_thininstaller_1.04.01.0004.exe
-
+HCI MemTest
+https://hcidesign.com/memtest/MemTest.zip
