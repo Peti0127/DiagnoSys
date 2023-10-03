@@ -8,7 +8,7 @@ CrystalDiskMark
 https://crystalmark.info/download/zz/CrystalDiskMark8_0_4c.exe
 
 FurMark
-https://geeks3d.com/dl/show/720
+https://geeks3d.com/dl/show/724
 
 HeavyLoad
 https://downloads.jam-software.de/heavyload/HeavyLoad-x64-Setup.exe
