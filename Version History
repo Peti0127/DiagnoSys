@@ -1,0 +1,16 @@
+Version History of the app
+v2.1.6 - Bugfixes, tooltips, run only once
+          Fixed some bugs, redesigned install check method, re-added tooltips, program is now only executable once.
+v2.1.6 - Re-added tooltips, code optimizations, bugfixes
+v2.1.5 - Fixed button checker
+v2.1.4 - Various fixes, install progress visible
+          Fixed various stuff, now visible if a Tool is installing
+v2.0.3 - Fixed temp path exception
+v2.0.2 - Disabled UpdateChecker
+v2.0.1 - Switch to C#
+          Changed Diagnosis method to UserBenchmark, other Apps are optional to download
+v1.0.5 - Bugfixes, remover version history
+v1.0.4 - Bugfixes
+1.0.3. Hotfix - fixed desktop path
+v1.0.3 - getVendor recoded to make it nicer
+v1.0.2 - Initial Release
