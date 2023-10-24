@@ -2,13 +2,13 @@ Chrome
 https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BF2252195-90FF-D123-3DFD-07A6641752FC%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe
 
 CrystalDiskInfo
-https://crystalmark.info/download/zz/CrystalDiskInfo9_1_1.exe
+https://downloads.sourceforge.net/project/crystaldiskinfo/9.1.1/CrystalDiskInfo9_1_1.exe?ts=gAAAAABlN1_a04svxspPOX2ePnJIwRT5VwK8jIT4dmJ1Q8a_WfQv4o0LHzRd4_TULm8Dt_uBlqU1_q7J9VCNF9OoiJjrLtZnfQ%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fcrystaldiskinfo%2Ffiles%2F9.1.1%2FCrystalDiskInfo9_1_1.exe%2Fdownload
 
 CrystalDiskMark
-https://crystalmark.info/download/zz/CrystalDiskMark8_0_4c.exe
+https://downloads.sourceforge.net/project/crystaldiskmark/8.0.4c/CrystalDiskMark8_0_4c.exe?ts=gAAAAABlN2AF1U353NBKPAxeHuGpBQA3tE9-gfKWnxx3hl1PVxZnQq83QH08iJF_F7fEqx9llZBt06Z6Wa_rM8Gcb9dWM4pDYw%3D%3D&r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fcrystaldiskmark%2Ffiles%2F8.0.4c%2FCrystalDiskMark8_0_4c.exe%2Fdownload
 
 FurMark
-https://geeks3d.com/dl/show/724
+https://geeks3d.com/dl/show/728
 
 HeavyLoad
 https://downloads.jam-software.de/heavyload/HeavyLoad-x64-Setup.exe
@@ -17,7 +17,7 @@ HWMonitor
 https://download.cpuid.com/hwmonitor/hwmonitor_1.52.exe
 
 NotepadPlusPlus
-https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.4/npp.8.5.4.Installer.x64.exe
+https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5.8/npp.8.5.8.Installer.x64.exe
 
 Prime95
 https://www.mersenne.org/download/software/v30/30.8/p95v308b17.win64.zip
