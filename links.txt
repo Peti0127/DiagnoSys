@@ -51,6 +51,3 @@ https://raw.githubusercontent.com/Peti0127/ACPGuide/main/BRZ_BIOS_p2.zip
 
 HCI MemTest
 https://hcidesign.com/memtest/MemTest.zip
-
-Backup DCU
-https://raw.githubusercontent.com/Peti0127/ACPGuide/main/DCU_5.0.0.EXE
