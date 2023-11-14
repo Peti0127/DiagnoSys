@@ -51,3 +51,6 @@ https://raw.githubusercontent.com/Peti0127/ACPGuide/main/BRZ_BIOS_p2.zip
 
 HCI MemTest
 https://hcidesign.com/memtest/MemTest.zip
+
+Intel CPU Diagnostics
+https://downloadmirror.intel.com/19792/IPDT_Installer_4.1.8.40_64bit.msi
